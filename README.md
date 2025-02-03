@@ -1,2 +1,2 @@
 # SimpleProjectRockPaperScissors
-"RockPaperScissors" console game
+This is a simple console game. 
